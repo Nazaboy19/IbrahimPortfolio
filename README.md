@@ -1,2 +1,2 @@
 # Ibrahim Mercado Portfolio
-Front-End Portfolio
+Front-End Developer Professional Portfolio
